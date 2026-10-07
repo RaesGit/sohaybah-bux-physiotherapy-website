@@ -186,4 +186,4 @@ Ballito, KwaZulu-Natal, South Africa
 
 ### Built with HTML, CSS & JavaScript
 
-Designed and developed by **Raeesa**.
+Designed and developed by **Raeesa Khader**.
