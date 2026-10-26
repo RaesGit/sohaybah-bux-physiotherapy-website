@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sohaybahbuxphysio.co.za/sitemap.xml

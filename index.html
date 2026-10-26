@@ -28,6 +28,14 @@
     <meta property="og:url" content="https://sohaybahbuxphysio.co.za/">
     <meta property="og:site_name" content="Sohaybah Bux Physiotherapy">
 
+    <link
+    rel="preload"
+    href="fonts/Brightwall.otf"
+    as="font"
+    type="font/otf"
+    crossorigin
+>
+
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -77,7 +85,7 @@
     <div class="nav-container">
 
         <a href="#home" class="logo">
-    <img src="images/sohaybah-logo.png" alt="Sohaybah Bux Physiotherapy Logo">
+    <img src="images/sohaybah-logo.webp" alt="Sohaybah Bux Physiotherapy Logo">
 
     <div class="logo-text">
         <span class="logo-name">Sohaybah Bux</span>
@@ -158,8 +166,13 @@
 
             <div class="hero-circle"></div>
 
-           <div class="hero-image-placeholder">
-    <img src="images/sohaybah.jpeg" alt="Sohaybah Bux, physiotherapist in Ballito">
+<div class="hero-image-placeholder">
+    <img
+        src="images/sohaybah.webp"
+        alt="Sohaybah Bux, physiotherapist in Ballito"
+        fetchpriority="high"
+        decoding="async"
+    >
 </div>
 
             <div class="hero-accent"></div>
